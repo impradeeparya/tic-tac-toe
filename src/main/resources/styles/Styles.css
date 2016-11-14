@@ -1,0 +1,17 @@
+.button {
+    -fx-font-weight: bold;
+}
+
+.gameBoard{
+    -fx-border-width: 2px;
+    -fx-border-color: grey;
+    -fx-alignment: CENTER;
+    -fx-text-fill: black;
+    -fx-background-color: darkorange;
+}
+
+.gameInfo{
+    -fx-border-width: 2px;
+    -fx-border-color: grey;
+    -fx-background-color: papayawhip;
+}

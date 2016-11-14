@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="400.0" maxWidth="200.0" minHeight="400.0" minWidth="200.0" styleClass="gameInfo" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.tictactoe.GameInformationController">
+   <children>
+      <Label fx:id="playerOneInformation" layoutX="14.0" layoutY="70.0" />
+      <Label fx:id="playerTwoInformation" layoutX="14.0" layoutY="116.0" />
+      <Label fx:id="gameProgressInformation" layoutX="13.0" layoutY="151.0" />
+   </children>
+</AnchorPane>
